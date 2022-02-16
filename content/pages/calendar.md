@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 3ad11aa0-d66c-6b7f-787c-84226684e0a2
 ---
@@ -88,7 +90,7 @@ Oral Examinations
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Synthesis of \[Co(NNH3)4(CO3)\]NO3
+Synthesis of \[Co(NNH{{< sub "3" >}}){{< sub "4" >}}(CO{{< sub "3" >}})\]NO{{< sub "3" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ Synthesis of \[Co(NNH3)4(CO3)\]NO3
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Synthesis of \[Co(NNH3)5Cl\]Cl2
+Synthesis of \[Co(NNH{{< sub "3" >}}){{< sub "5" >}}Cl\]Cl{{< sub "2" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 842c2c9c-234f-82f3-567d-bfe9e47ddb9d
 ---
@@ -137,7 +140,7 @@ ACCOMPANYING FILES
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Synthesis of \[Co(NNH3)4(CO3)\]NO3
+Synthesis of \[Co(NNH{{< sub "3" >}}){{< sub "4" >}}(CO{{< sub "3" >}})\]NO{{< sub "3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 [PreLab 1 (PDF)]({{< baseurl >}}/resources/mit5_35f12_prelab1module2)
@@ -149,7 +152,7 @@ Synthesis of \[Co(NNH3)4(CO3)\]NO3
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Synthesis of \[Co(NNH3)5Cl\]Cl2
+Synthesis of \[Co(NNH{{< sub "3" >}}){{< sub "5" >}}Cl\]Cl{{< sub "2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 [PreLab 2 (PDF)]({{< baseurl >}}/resources/mit5_35f12_prelab2module2)

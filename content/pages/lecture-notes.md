@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 49dacdbf-fdcb-89ef-baa7-077626718ddc
 ---
@@ -23,7 +26,7 @@ ACCOMPANYING FILES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Module 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -53,7 +56,7 @@ Linear and nonlinear spectroscopy
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Module 2
 {{< tdclose >}}
 {{< tdopen >}}
