@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49dacdbf-fdcb-89ef-baa7-077626718ddc
 resourcetype: Document
 title: Practical aspects of FTIR Spectroscopy
 uid: 0d497656-8e22-0050-e36f-86dfa7f648ed

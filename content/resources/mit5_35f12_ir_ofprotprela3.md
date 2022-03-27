@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 842c2c9c-234f-82f3-567d-bfe9e47ddb9d
 resourcetype: Document
 title: IR of Proteins Pre-Lab
 uid: 5088485f-6cda-c55e-647e-7a9673dea5da

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 842c2c9c-234f-82f3-567d-bfe9e47ddb9d
 resourcetype: Document
 title: Written Report Guidelines
 uid: f80e4e7c-2ed4-86b3-2031-dc6900925faa

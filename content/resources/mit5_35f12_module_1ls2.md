@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49dacdbf-fdcb-89ef-baa7-077626718ddc
 resourcetype: Document
 title: Spectroscopy in frequency and time domains
 uid: 18a90809-1e02-58ba-5537-94ac1cd0a517

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 842c2c9c-234f-82f3-567d-bfe9e47ddb9d
 resourcetype: Document
 title: 300 MHz NMR
 uid: 0b6bbf59-050d-a4d9-67a1-37a58e1a4b19

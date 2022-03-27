@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 842c2c9c-234f-82f3-567d-bfe9e47ddb9d
 resourcetype: Document
 title: UV-vis Pre Lab
 uid: 8614ae52-132c-c8df-71cf-91033a82efe8

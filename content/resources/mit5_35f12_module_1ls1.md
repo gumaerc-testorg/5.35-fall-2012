@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49dacdbf-fdcb-89ef-baa7-077626718ddc
 resourcetype: Document
 title: Spectroscopy
 uid: 47af5087-5555-2073-2f86-8526283bc036

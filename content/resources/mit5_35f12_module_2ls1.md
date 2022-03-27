@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49dacdbf-fdcb-89ef-baa7-077626718ddc
 resourcetype: Document
 title: Introduction to Coordination Chemistry
 uid: e4c967c8-31a5-0ee6-82b5-5a85422c1a67

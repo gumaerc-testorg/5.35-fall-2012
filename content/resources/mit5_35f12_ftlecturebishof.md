@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: b9a38b39-87a4-6417-0f78-f157732096ea
 resourcetype: Document
 title: Fourier Transform Handout
 uid: 5cbdf4c3-a36d-a72b-38d6-a6c2b8bb332f

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: b9a38b39-87a4-6417-0f78-f157732096ea
 resourcetype: Other
 title: 5.35_fft_lecture.m
 uid: 40a0626f-5eb8-12ce-ab2b-36c64751a89e

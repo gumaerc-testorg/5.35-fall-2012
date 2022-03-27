@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49dacdbf-fdcb-89ef-baa7-077626718ddc
 resourcetype: Document
 title: Linear and nonlinear spectroscopy
 uid: dc8a375c-836c-b16e-46d2-54fbc1e06847
