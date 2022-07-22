@@ -5,6 +5,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/42f06d2a715
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: IR Pre-Lab
 uid: 42f06d2a-7151-7c2a-5503-a9c416a91310
 ---
 This file contains information regarding preLab 2: IR spectroscopy.
-

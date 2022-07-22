@@ -5,6 +5,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/ddf5d0ea53f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Prelab 3, Module 2
 uid: ddf5d0ea-53f0-4609-24b3-f7e306221333
 ---
 This file contains information regarding prelab 3.
-

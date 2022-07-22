@@ -5,6 +5,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/47af5087555
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Spectroscopy
 uid: 47af5087-5555-2073-2f86-8526283bc036
 ---
 This file contains information regarding Mod 1 lecture summary 1.
-

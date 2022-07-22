@@ -5,6 +5,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/f80e4e7c2ed
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Written Report Guidelines
 uid: f80e4e7c-2ed4-86b3-2031-dc6900925faa
 ---
 This file contains information regarding written report guidelines.
-

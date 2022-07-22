@@ -5,6 +5,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/abcd0cdf951
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Prelab 4, Module 2
 uid: abcd0cdf-9519-861d-e794-5a97041598c7
 ---
 This file contains information regarding preLab 4.
-

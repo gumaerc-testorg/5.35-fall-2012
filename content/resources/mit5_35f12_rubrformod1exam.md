@@ -5,6 +5,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/b568b600206
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Oral Exam Rubric
 uid: b568b600-206a-030e-c48c-ddb87a3b37ae
 ---
 This file contains information regarding oral exam rubric.
-

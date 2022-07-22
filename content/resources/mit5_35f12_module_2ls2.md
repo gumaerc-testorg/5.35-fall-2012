@@ -6,6 +6,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/0d4976568e2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Practical aspects of FTIR Spectroscopy
 uid: 0d497656-8e22-0050-e36f-86dfa7f648ed
 ---
 This resource contains information regarding practical aspects of FTIR spectroscopy.
-

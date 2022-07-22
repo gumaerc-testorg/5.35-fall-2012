@@ -5,6 +5,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/18a908091e0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Spectroscopy in frequency and time domains
 uid: 18a90809-1e02-58ba-5537-94ac1cd0a517
 ---
 This file contains information regarding Mod 1 lecture summary 2.
-

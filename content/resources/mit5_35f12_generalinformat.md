@@ -6,6 +6,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/f1ae2a81a4b
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Introduction To Experimental Chemistry
 uid: f1ae2a81-a4b1-f154-ec39-b07c6307054b
 ---
 This file contains information regarding general information and rules for 5.35 introduction to experimental chemistry .
-

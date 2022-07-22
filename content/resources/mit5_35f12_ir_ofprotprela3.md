@@ -6,6 +6,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/5088485f6cd
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: IR of Proteins Pre-Lab
 uid: 5088485f-6cda-c55e-647e-7a9673dea5da
 ---
 This file contains information regarding preLab 3: IR spectroscopy of proteins.
-

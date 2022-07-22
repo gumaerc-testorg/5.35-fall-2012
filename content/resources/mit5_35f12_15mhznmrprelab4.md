@@ -5,6 +5,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/fe71e06f472
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: NMR Pre-Lab
 uid: fe71e06f-472d-8a96-ea6c-a8f473440873
 ---
 This file contains information regarding preLab 4: 15 MHz NMR.
-

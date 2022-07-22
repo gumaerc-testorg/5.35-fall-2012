@@ -5,6 +5,7 @@ file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/dc8a375c836
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Linear and nonlinear spectroscopy
 uid: dc8a375c-836c-b16e-46d2-54fbc1e06847
 ---
 This file contains information regarding Mod 1 lecture summary 3.
-
