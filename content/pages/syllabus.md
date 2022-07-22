@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, format, course modules, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8fb7b292-4a72-2013-8de5-1898c6e83566
 ---
@@ -39,7 +43,7 @@ This experimental module provides an introduction to the fundamental principles 
 Basis of the research of Professor Keith Nelson.
 
 **Module 2 Synthesis of Coordination Compounds and Kinetics**  
-This experiment is an introduction to the synthesis of simple coordination compounds and chemical kinetics. Cobalt coordination chemistry and its transformations are illustrated in the preparation of \[Co(NH3)4(CO3)\]NO3 and \[Co(NH3)5Cl\]Cl2, followed by the aquation of \[Co(NH3)5Cl\]2+ to yield \[Co(NH3)5(H2O)\]3+, as detected by visible spectroscopy. Isosbestic points are observed in visible spectra, the rate and rate law is determined, the rate constant is measured at several temperatures, and the activation energy is derived for the aquation reaction.  
+This experiment is an introduction to the synthesis of simple coordination compounds and chemical kinetics. Cobalt coordination chemistry and its transformations are illustrated in the preparation of \[Co(NH{{< sub "3" >}}){{< sub "4" >}}(CO{{< sub "3" >}})\]NO{{< sub "3" >}} and \[Co(NH{{< sub "3" >}}){{< sub "5" >}}Cl\]Cl{{< sub "2" >}}, followed by the aquation of \[Co(NH{{< sub "3" >}}){{< sub "5" >}}Cl\]{{< sup "2+" >}} to yield \[Co(NH{{< sub "3" >}}){{< sub "5" >}}(H{{< sub "2" >}}O)\]{{< sup "3+" >}}, as detected by visible spectroscopy. Isosbestic points are observed in visible spectra, the rate and rate law is determined, the rate constant is measured at several temperatures, and the activation energy is derived for the aquation reaction.  
 Similar to the research of Professor Richard Schrock.
 
 **Module 3 Fabrication of a Polymeric Light Emitting Device**
