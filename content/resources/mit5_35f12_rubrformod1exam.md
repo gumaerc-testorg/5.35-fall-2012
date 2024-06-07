@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding oral exam rubric.
 file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/b568b600206a030ec48cddb87a3b37ae_MIT5_35F12_RubrForMod1EXAM.pdf
+file_size: 432655
 file_type: application/pdf
 learning_resource_types:
 - Labs
