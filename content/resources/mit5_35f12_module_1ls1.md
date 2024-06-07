@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding Mod 1 lecture summary 1.
 file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/47af5087555520732f868526283bc036_MIT5_35F12_Module_1LS1.pdf
+file_size: 317874
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
