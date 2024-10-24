@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding prelab 2.
-file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/3e2f92b5f9b95bf96724acc4994caff8_MIT5_35F12_prelab2module2.pdf
+file: /ol-ocw-studio-app/courses/5-35-introduction-to-experimental-chemistry-fall-2012/3e2f92b5f9b95bf96724acc4994caff8_MIT5_35F12_prelab2module2.pdf
 file_size: 80473
 file_type: application/pdf
 learning_resource_types:
