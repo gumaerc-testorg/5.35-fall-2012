@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding preLab 5: 300 MHz NMR .'
-file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/0b6bbf59050da4d967a137a58e1a4b19_MIT5_35F12_300MHzNMRPreLa5.pdf
+file: /ol-ocw-studio-app/courses/5-35-introduction-to-experimental-chemistry-fall-2012/0b6bbf59050da4d967a137a58e1a4b19_MIT5_35F12_300MHzNMRPreLa5.pdf
 file_size: 224432
 file_type: application/pdf
 learning_resource_types:
