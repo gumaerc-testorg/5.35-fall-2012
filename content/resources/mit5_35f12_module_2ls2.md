@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding practical aspects of FTIR
   spectroscopy.
-file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/0d4976568e220050e36f86dfa7f648ed_MIT5_35F12_Module_2LS2.pdf
+file: /ol-ocw-studio-app/courses/5-35-introduction-to-experimental-chemistry-fall-2012/0d4976568e220050e36f86dfa7f648ed_MIT5_35F12_Module_2LS2.pdf
 file_size: 337022
 file_type: application/pdf
 learning_resource_types:

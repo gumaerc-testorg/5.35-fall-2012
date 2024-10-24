@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding module 1 expectations.
-file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/b10d5d9d08da81f1e54e34526de5d082_MIT5_35F12_Mod1_Experiment.pdf
+file: /ol-ocw-studio-app/courses/5-35-introduction-to-experimental-chemistry-fall-2012/b10d5d9d08da81f1e54e34526de5d082_MIT5_35F12_Mod1_Experiment.pdf
 file_size: 1748393
 file_type: application/pdf
 learning_resource_types:

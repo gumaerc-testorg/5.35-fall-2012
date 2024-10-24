@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding preLab 3: IR spectroscopy of
   proteins.'
-file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/5088485f6cdac55e647e7a9673dea5da_MIT5_35F12_IR_ofProtPreLa3.pdf
+file: /ol-ocw-studio-app/courses/5-35-introduction-to-experimental-chemistry-fall-2012/5088485f6cdac55e647e7a9673dea5da_MIT5_35F12_IR_ofProtPreLa3.pdf
 file_size: 186095
 file_type: application/pdf
 learning_resource_types:
