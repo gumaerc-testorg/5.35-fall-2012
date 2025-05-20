@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding preLab 1: UV-Vis.'
-file: /ol-ocw-studio-app/courses/5-35-introduction-to-experimental-chemistry-fall-2012/8614ae52132cc8df71cf91033a82efe8_MIT5_35F12_Uv_vis_Prelab1.pdf
+file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/8614ae52132cc8df71cf91033a82efe8_MIT5_35F12_Uv_vis_Prelab1.pdf
 file_size: 222930
 file_type: application/pdf
 learning_resource_types:
