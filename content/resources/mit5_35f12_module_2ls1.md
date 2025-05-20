@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding introduction to coordination
   chemistry.
-file: /ol-ocw-studio-app/courses/5-35-introduction-to-experimental-chemistry-fall-2012/e4c967c831a50ee682b55a85422c1a67_MIT5_35F12_Module_2LS1.pdf
+file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/e4c967c831a50ee682b55a85422c1a67_MIT5_35F12_Module_2LS1.pdf
 file_size: 299926
 file_type: application/pdf
 learning_resource_types:
