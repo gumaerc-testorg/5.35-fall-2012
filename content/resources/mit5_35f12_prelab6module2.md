@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding prelab 6.
-file: /ol-ocw-studio-app/courses/5-35-introduction-to-experimental-chemistry-fall-2012/d2ee947fb162cb2807609510f767617a_MIT5_35F12_prelab6module2.pdf
+file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/d2ee947fb162cb2807609510f767617a_MIT5_35F12_prelab6module2.pdf
 file_size: 369476
 file_type: application/pdf
 learning_resource_types:
