@@ -4,7 +4,7 @@ description: This section provides general information and rules for the course,
   on the first two modules of the course, the schedule of weekly topics, and accompanying
   files.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 842c2c9c-234f-82f3-567d-bfe9e47ddb9d
