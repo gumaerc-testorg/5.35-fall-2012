@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This file contains information regarding prelab 5.
-file: /courses/5-35-introduction-to-experimental-chemistry-fall-2012/90b70af7ccdae281803b984d2c27fe82_MIT5_35F12_prelab5module2.pdf
+file: /ol-ocw-studio-app/courses/5-35-introduction-to-experimental-chemistry-fall-2012/90b70af7ccdae281803b984d2c27fe82_MIT5_35F12_prelab5module2.pdf
 file_size: 97937
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
